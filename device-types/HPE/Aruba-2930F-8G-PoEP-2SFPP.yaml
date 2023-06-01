@@ -1,0 +1,40 @@
+---
+manufacturer: HPE
+model: Aruba 2930F-8G-PoE+-2SFP+
+slug: hpe-aruba-2930f-8g-poep-sfpp
+part_number: JL258A
+u_height: 1
+is_full_depth: false
+comments: '[Aruba 2930F 8G PoE+ 2SFP+ Switch Data sheet](https://www.hpe.com/psnow/doc/PSN1008995547USEN.pdf)'
+weight: 4.41
+weight_unit: lb
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 155
+console-ports:
+  - name: Console
+    type: rj-45
+  - name: USB Console
+    type: usb-micro-b
+interfaces:
+  - name: '1'
+    type: 1000base-t
+  - name: '2'
+    type: 1000base-t
+  - name: '3'
+    type: 1000base-t
+  - name: '4'
+    type: 1000base-t
+  - name: '5'
+    type: 1000base-t
+  - name: '6'
+    type: 1000base-t
+  - name: '7'
+    type: 1000base-t
+  - name: '8'
+    type: 1000base-t
+  - name: '9'
+    type: 10gbase-x-sfpp
+  - name: '10'
+    type: 10gbase-x-sfpp
